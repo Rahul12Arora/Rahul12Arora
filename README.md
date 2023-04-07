@@ -154,18 +154,6 @@
   <p><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rahul12Arora&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
   <br>
 </details>
-<details> 
-  <summary><b>📊 Wakatime Stats</b></summary>
-  <br>
-  
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C365%20hrs%205%20mins-blue)
-
-**I'm an Early 🐤** 
-
-
-<!--END_SECTION:waka-->
-</details>
 
 <!-- Connection -->
 <h2> Connect with me <img src="./images/handshake.gif" height="35px"></h2>
