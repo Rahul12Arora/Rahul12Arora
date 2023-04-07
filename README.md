@@ -55,18 +55,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
   </a>
-  <a href="https://www.typescriptlang.org" target="_blank">
-    <code><img src="./images/typescript.svg" alt="TypeScript" height="40"/></code>
-  </a>
   <br>
   <a href="https://reactjs.org" target="_blank">
     <code><img src="./images/react.svg" alt="ReactJS" height="40"/></code>
-  </a>
-  <a href="https://preactjs.com" target="_blank">
-    <code><img src="./images/preact.svg" alt="PreactJS" height="40"/></code>
-  </a>
-  <a href="https://nextjs.org" target="_blank">
-    <code><img src="./images/next.svg" alt="NextJS" height="40"/></code>
   </a>
 </p>
 
@@ -84,34 +75,9 @@
   <a href="https://expressjs.com" target="_blank">
     <code><img src="./images/express.svg" alt="ExpressJS" height="40"/></code>
   </a>
-  <a href="https://nestjs.com" target="_blank">
-    <code><img src="./images/nest.svg" alt="NestJS" height="40"/></code>
-  </a>
-  <a href="https://spring.io" target="_blank">
-    <code><img src="./images/spring.svg" alt="Spring" height="40"/></code>
-  </a>
-  <a href="https://dotnet.microsoft.com" target="_blank">
-    <code><img src="./images/dotnet.svg" alt="DotNet" height="40"/></code>
-  </a>
   <br>
   <a href="https://mongodb.com" target="_blank">
     <code><img src="./images/mongodb.svg" alt="MongoDB" height="40"/></code>
-  </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <code><img src="./images/mysql.svg" alt="MySQL" height="40"/></code>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <code><img src="./images/sql-server.svg" alt="SQL Server" height="40"/></code>
-  </a>
-  <a href="https://redis.io" target="_blank">
-    <code><img src="./images/redis.svg" alt="Redis" height="40"/></code>
-  </a>
-  <br>
-  <a href="https://firebase.google.com" target="_blank">
-    <code><img src="./images/firebase.svg" alt="Firebase" height="40"/></code>
-  </a>
-  <a href="https://supabase.com" target="_blank">
-    <code><img src="./images/supabase.svg" alt="Supabase" height="40"/></code>
   </a>
 </p>
 
