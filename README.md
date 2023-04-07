@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="./images/logo.svg" width="500">
   <br>
-  Hi, I'm Nguyễn Nhật Huy - aka Lil Huy <img src="./images/hi.gif" width="30px" height="30px">
+  Hi, I'm Rahul Arora - aka A fellow S.D.E <img src="./images/hi.gif" width="30px" height="30px">
 </h1>
 
 <!-- Counter -->
@@ -19,7 +19,7 @@
 </p>
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
-- 📓 I'm a student of [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn).
+- 📓 I'm was a student of [JC Bose(YMCA) University](https://jcboseust.ac.in/).
 - 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a **Backend Crew Leader**.
 - 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **DevOps** everyday.
 - 💬 I’m looking forward to contributing to **Open Source Projects**.
