@@ -1,13 +1,17 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="./images/logo.svg" width="500">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;Welcome+to+my+Github....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<h1 align="center">
   <br>
-  Hi, I'm Rahul Arora <img src="./images/hi.gif" width="30px" height="30px">
+  I'm Rahul Arora <img src="./images/hi.gif" width="30px" height="30px">
 </h1>
 
 <!-- Counter -->
 <p align="center">
-  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oHTGo&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
+  <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rahul12Arora&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
 </p>
 
 <p align="center">
@@ -134,20 +138,20 @@
   <summary><b>💻 Profile Stats</b></summary>
   <br>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oHTGo&layout=compact&theme=dark" alt="Most used languages" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul12Arora&layout=compact&theme=dark" alt="Most used languages" height="192px"/>
     <br>
-	  <img src="https://github-readme-stats.vercel.app/api?username=oHTGo&show_icons=true&icon_color=ffffff&theme=dark" alt="oHTGo's Github Stats" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api?username=Rahul12Arora&show_icons=true&icon_color=ffffff&theme=dark" alt="Rahul12Arora's Github Stats" height="192px"/>
     <br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
     <br>
     <br>
-    <img src="https://leetcode.card.workers.dev/?username=oHTGo&theme=dark" alt="oHTGo's LeetCode Stats" height="192px"/>
+    <img src="https://leetcode.card.workers.dev/?username=rahul12arora&theme=dark" alt="rahul12arora's LeetCode Stats" height="192px"/>
   </p>
 </details>
 <details>
   <summary><b>⚡ GitHub Contribution</b></summary>
   <br>
-  <p><img alt="oHTGo's GitHub Contribution" src="https://github.com/oHTGo/oHTGo/blob/snake/snake.svg"/></p>
+  <p><img alt="Rahul12Arora's GitHub Contribution" src="https://github.com/Rahul12Arora/Rahul12Arora/blob/snake/snake.svg"/></p>
   <br>
 </details>
 <details> 
@@ -202,10 +206,10 @@ VS Code                  5 hrs 47 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 <!-- Connection -->
 <h2> Connect with me <img src="./images/handshake.gif" height="35px"></h2>
 <p align="center">
-  <a href="https://s.ohtgo.me/facebook" target="_blank">
+  <a href="https://www.instagram.com/chirpings/" target="_blank">
     <code><img src="./images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40"/></code>
   </a>
-  <a href="https://s.ohtgo.me/instagram" target="_blank">
+  <a href="https://www.instagram.com/chirpings/" target="_blank">
     <code><img src="./images/instagram.svg" alt="_.lil.huy._" height="30" width="40"/></code>
   </a>
 </p>
