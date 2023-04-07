@@ -1,8 +1,8 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://github.com/oHTGo/oHTGo/blob/main/images/logo.svg" width="500">
+  <img src="./images/logo.svg" width="500">
   <br>
-  Hi, I'm Rahul Arora - A fellow developer <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
+  Hi, I'm Nguyễn Nhật Huy - aka Lil Huy <img src="./images/hi.gif" width="30px" height="30px">
 </h1>
 
 <!-- Counter -->
@@ -14,36 +14,40 @@
   <b>I'm a passionate programmer who loves to code</b>
 </p>
 
-<img align='right' src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
-<br>
+<p align="center">
+  <img src="./images/coding.gif" width="300">
+</p>
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 📓 I'm a student of [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn).
-- 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a `Backend Crew Leader`.
+- 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a **Backend Crew Leader**.
 - 🌱 I’m currently focusing on **Backend Web Development** and practicing **Frontend Web Development** and **DevOps** everyday.
-- 💬 I’m looking forward to contribute to **Open Source Projects**.
+- 💬 I’m looking forward to contributing to **Open Source Projects**.
 - Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
 
-<h2>Tech stack</h2>
-
+<!-- Tech stack -->
+<h2>Tech stack 🔭</h2>
 <p align="center">
   <b>Languages</b>
   <br>
   <br>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/c.svg" alt="C" height="40"/></code>
+    <code><img src="./images/c.svg" alt="C" height="40"/></code>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
+    <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
   </a>
   <a href="https://www.typescriptlang.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
+    <code><img src="./images/typescript.svg" alt="TypeScript" height="40"/></code>
   </a>
   <a href="https://www.java.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/java.svg" alt="Java" height="40"/></code>
+    <code><img src="./images/java.svg" alt="Java" height="40"/></code>
   </a>
   <a href="https://go.dev" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/golang.svg" alt="Golang" height="40"/></code>
+    <code><img src="./images/golang.svg" alt="Golang" height="40"/></code>
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+    <code><img src="./images/c-sharp.svg" alt="C#" height="40"/></code>
   </a>
 </p>
 
@@ -55,26 +59,26 @@
   <br>
   <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/html.svg" alt="HTML" height="40"/></code>
+    <code><img src="./images/html.svg" alt="HTML" height="40"/></code>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/css.svg" alt="CSS" height="40"/></code>
+    <code><img src="./images/css.svg" alt="CSS" height="40"/></code>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/javascript.svg" alt="JavaScript" height="40"/></code>
+    <code><img src="./images/javascript.svg" alt="JavaScript" height="40"/></code>
   </a>
   <a href="https://www.typescriptlang.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/typescript.svg" alt="TypeScript" height="40"/></code>
+    <code><img src="./images/typescript.svg" alt="TypeScript" height="40"/></code>
   </a>
   <br>
   <a href="https://reactjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/react.svg" alt="ReactJS" height="40"/></code>
+    <code><img src="./images/react.svg" alt="ReactJS" height="40"/></code>
   </a>
   <a href="https://preactjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/preact.svg" alt="PreactJS" height="40"/></code>
+    <code><img src="./images/preact.svg" alt="PreactJS" height="40"/></code>
   </a>
   <a href="https://nextjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/next.svg" alt="NextJS" height="40"/></code>
+    <code><img src="./images/next.svg" alt="NextJS" height="40"/></code>
   </a>
 </p>
 
@@ -86,17 +90,40 @@
   <br>
   <br>
   <a href="https://nodejs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"/></code>
+    <code><img src="./images/node.svg" alt="NodeJS" height="40"/></code>
   </a>
   <br>
   <a href="https://expressjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="ExpressJS" height="40"/></code>
+    <code><img src="./images/express.svg" alt="ExpressJS" height="40"/></code>
   </a>
   <a href="https://nestjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nest.svg" alt="NestJS" height="40"/></code>
+    <code><img src="./images/nest.svg" alt="NestJS" height="40"/></code>
   </a>
   <a href="https://spring.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg" alt="Spring" height="40"/></code>
+    <code><img src="./images/spring.svg" alt="Spring" height="40"/></code>
+  </a>
+  <a href="https://dotnet.microsoft.com" target="_blank">
+    <code><img src="./images/dotnet.svg" alt="DotNet" height="40"/></code>
+  </a>
+  <br>
+  <a href="https://mongodb.com" target="_blank">
+    <code><img src="./images/mongodb.svg" alt="MongoDB" height="40"/></code>
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <code><img src="./images/mysql.svg" alt="MySQL" height="40"/></code>
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <code><img src="./images/sql-server.svg" alt="SQL Server" height="40"/></code>
+  </a>
+  <a href="https://redis.io" target="_blank">
+    <code><img src="./images/redis.svg" alt="Redis" height="40"/></code>
+  </a>
+  <br>
+  <a href="https://firebase.google.com" target="_blank">
+    <code><img src="./images/firebase.svg" alt="Firebase" height="40"/></code>
+  </a>
+  <a href="https://supabase.com" target="_blank">
+    <code><img src="./images/supabase.svg" alt="Supabase" height="40"/></code>
   </a>
 </p>
 
@@ -108,20 +135,30 @@
   <br>
   <br>
   <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/windows.svg" alt="Windows" height="40"/></code>
+    <code><img src="./images/windows.svg" alt="Windows" height="40"/></code>
   </a>
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="40"/></code>
+    <code><img src="./images/linux.svg" alt="Linux" height="40"/></code>
   </a>
   <br>
   <a href="https://docker.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/docker.svg" alt="Docker" height="40"/></code>
+    <code><img src="./images/docker.svg" alt="Docker" height="40"/></code>
   </a>
   <a href="https://www.nginx.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nginx.svg" alt="Nginx" height="40"/></code>
+    <code><img src="./images/nginx.svg" alt="Nginx" height="40"/></code>
   </a>
   <a href="https://pm2.keymetrics.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/pm2.svg" alt="PM2" height="40"/></code>
+    <code><img src="./images/pm2.svg" alt="PM2" height="40"/></code>
+  </a>
+  <br>
+  <a href="https://cloud.google.com" target="_blank">
+    <code><img src="./images/google-cloud.svg" alt="Google Cloud" height="40"/></code>
+  </a>
+  <a href="https://www.heroku.com" target="_blank">
+    <code><img src="./images/heroku.svg" alt="Heroku" height="40"/></code>
+  </a>
+  <a href="https://azure.microsoft.com" target="_blank">
+    <code><img src="./images/azure.svg" alt="Azure" height="40"/></code>
   </a>
 </p>
 
@@ -133,21 +170,24 @@
   <br>
   <br>
   <a href="https://www.electronjs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/electron.svg" alt="ElectronJS" height="40"/></code>
+    <code><img src="./images/electron.svg" alt="ElectronJS" height="40"/></code>
   </a>
 </p>
 
-<!-- My Activity -->
-<h2>My Activity <img src="https://github.com/oHTGo/oHTGo/blob/main/images/github-stats.gif" height="35px"></h2>
+<!-- My activity -->
+<h2>My activity <img src="./images/github-stats.gif" height="35px"></h2>
 <details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b>💻 Profile Stats</b></summary>
   <br>
   <p align="center">
-    <img alt="Mosted used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oHTGo&layout=compact&theme=dark" height="192px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oHTGo&layout=compact&theme=dark" alt="Most used languages" height="192px"/>
     <br>
 	  <img src="https://github-readme-stats.vercel.app/api?username=oHTGo&show_icons=true&icon_color=ffffff&theme=dark" alt="oHTGo's Github Stats" height="192px"/>
     <br>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    <br>
+    <br>
+    <img src="https://leetcode.card.workers.dev/?username=oHTGo&theme=dark" alt="oHTGo's LeetCode Stats" height="192px"/>
   </p>
 </details>
 <details>
@@ -161,73 +201,57 @@
   <br>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C365%20hrs%205%20mins-blue)
 
-**I'm a Night 🦉**
-
-```text
-🌞 Morning    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.83%
-🌆 Daytime    145 commits    ███████░░░░░░░░░░░░░░░░░░   30.79%
-🌃 Evening    194 commits    ██████████░░░░░░░░░░░░░░░   41.19%
-🌙 Night      48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.19%
-
-```
-
-📅 **I'm Most Productive on Tuesday**
+**I'm an Early 🐤** 
 
 ```text
-Monday       73 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.5%
-Tuesday      86 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.26%
-Wednesday    74 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.71%
-Thursday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64%
-Friday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68%
-Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16%
-Sunday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.05%
-
+🌞 Morning                7487 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.23 % 
+🌆 Daytime                6327 commits        ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.24 % 
+🌃 Evening                7493 commits        ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.25 % 
+🌙 Night                  1924 commits        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.28 % 
 ```
-
-📊 **This Week I Spent My Time On**
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-⌚︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages:
-Other                    18 hrs 45 mins      █████████████████░░░░░░░░   69.59%
-TypeScript               3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19%
-CSS                      2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.22%
-Java                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.1%
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%
-
-🔥 Editors:
-Browser                  18 hrs 2 mins       ████████████████░░░░░░░░░   66.94%
-VS Code                  7 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.97%
-NetBeans                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.09%
-
+Monday                   5632 commits        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.24 % 
+Tuesday                  5730 commits        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.67 % 
+Wednesday                3386 commits        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.58 % 
+Thursday                 3240 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.95 % 
+Friday                   2499 commits        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.76 % 
+Saturday                 1853 commits        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.98 % 
+Sunday                   891 commits         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.84 % 
 ```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+Other                    18 hrs 30 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   76.28 % 
+Dart                     3 hrs 14 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.37 % 
+TypeScript               1 hr 42 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.07 % 
+YAML                     21 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.48 % 
+JSON                     19 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.36 % 
+
+🔥 Editors: 
+Chrome                   18 hrs 28 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   76.13 % 
+VS Code                  5 hrs 47 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.87 % 
+```
+
 
 <!--END_SECTION:waka-->
 </details>
 
 <!-- Connection -->
-<h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
+<h2> Connect with me <img src="./images/handshake.gif" height="35px"></h2>
 <p align="center">
-  <a href="https://facebook.com/nguyennhathuy.orit" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40"/></code>
+  <a href="https://s.ohtgo.me/facebook" target="_blank">
+    <code><img src="./images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40"/></code>
   </a>
-  <a href="https://instagram.com/_.lil.huy._" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/instagram.svg" alt="_.lil.huy._" height="30" width="40"/></code>
+  <a href="https://s.ohtgo.me/instagram" target="_blank">
+    <code><img src="./images/instagram.svg" alt="_.lil.huy._" height="30" width="40"/></code>
   </a>
 </p>
-
-<!-- Signal -->
-<p align="right">
-  <img alt="Signal" height="25px" src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif">
-  <br>
-  <em>Lil Huy</em>
-</p>
-
----
-
-Credits: [oHTGo](https://github.com/oHTGo)
-
-Last Edited on: 26/02/2022
