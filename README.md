@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="./images/logo.svg" width="500">
   <br>
-  Hi, I'm Rahul Arora - aka A fellow S.D.E <img src="./images/hi.gif" width="30px" height="30px">
+  Hi, I'm Rahul Arora <img src="./images/hi.gif" width="30px" height="30px">
 </h1>
 
 <!-- Counter -->
