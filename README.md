@@ -89,34 +89,11 @@
 <br>
 
 <p align="center">
-  <b>System & DevOps</b>
+  <b>System</b>
   <br>
   <br>
   <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
     <code><img src="./images/windows.svg" alt="Windows" height="40"/></code>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
-    <code><img src="./images/linux.svg" alt="Linux" height="40"/></code>
-  </a>
-  <br>
-  <a href="https://docker.com" target="_blank">
-    <code><img src="./images/docker.svg" alt="Docker" height="40"/></code>
-  </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <code><img src="./images/nginx.svg" alt="Nginx" height="40"/></code>
-  </a>
-  <a href="https://pm2.keymetrics.io" target="_blank">
-    <code><img src="./images/pm2.svg" alt="PM2" height="40"/></code>
-  </a>
-  <br>
-  <a href="https://cloud.google.com" target="_blank">
-    <code><img src="./images/google-cloud.svg" alt="Google Cloud" height="40"/></code>
-  </a>
-  <a href="https://www.heroku.com" target="_blank">
-    <code><img src="./images/heroku.svg" alt="Heroku" height="40"/></code>
-  </a>
-  <a href="https://azure.microsoft.com" target="_blank">
-    <code><img src="./images/azure.svg" alt="Azure" height="40"/></code>
   </a>
 </p>
 
