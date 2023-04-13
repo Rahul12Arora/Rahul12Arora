@@ -9,6 +9,17 @@
   I'm Rahul Arora <img src="./images/hi.gif" width="30px" height="30px">
 </h1>
 
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/rahul012/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://leetcode.com/rahul12arora/" title="LeetCode Profile"><img width="22" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"> LeetCode</a></code>
+ 
+</h5>
+<h5 align="center">
+  <code><a href="https://superbportfolio.netlify.app/" title="Portfolio"> 👑Portfolio👑</a></code>
+</h5>
+<br>
+
 <!-- Counter -->
 <p align="center">
   <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Rahul12Arora&count_bg=%23579E91&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false">
